@@ -30,7 +30,7 @@ const Filter = () => {
       {addFriend && (
         <div className={Style.Filter_model}>
             <Model openBox={setaddFriend}  title="WELCOME TO " head="Coin Converse" info="Decentralize Your Conversations, Empower Your Privacy!"
-            smallInfo="Select your friend's name and address" image={images.hero} functionName={addFriend} address={account}/> 
+            smallInfo="Select your friend's name and address" image={images.cback} functionName={addFriend} address={account}/> 
         </div>
       )}
     </div>

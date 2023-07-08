@@ -69,7 +69,10 @@ Open your web browser and visit http://127.0.0.1:5173 to access the CoinConverse
 * Create a new branch for your feature or bug fix.
 * Implement your feature or make changes to the codebase.
 * Commit and push your changes.
- 
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ## Contact
 For any inquiries or feedback, please contact luckshya1210@gmail.com
 

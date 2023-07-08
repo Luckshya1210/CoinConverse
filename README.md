@@ -6,9 +6,20 @@ The CoinConverse is a web-based platform that leverages Ethereum addresses, the 
 
 ## Features
 * Decentralized Accounts: Users can create their unique accounts on the platform using their Ethereum addresses, providing a decentralized and secure identity verification process.
-* Friend Management: Users can add friends on the platform, establishing connections with other users and expanding their network.
+
+![2023-07-08 (4)](https://github.com/Luckshya1210/CoinConverse/assets/93855214/2fe8ee8d-636e-4790-9334-344f8c1df00d)
+
+* Friend Management: Users can add friends on the platform, establishing connections with other users and expanding their network seamlessly.
+
+![2023-07-08 (2)](https://github.com/Luckshya1210/CoinConverse/assets/93855214/f43da081-688e-453a-973a-b51a4046bf75) 
+
 * Secure Chat: Users can engage in highly encrypted conversations with their friends. The chat messages are stored on the Sepolia blockchain network, ensuring data integrity and immutability.
+
+![2023-07-08 (7)](https://github.com/Luckshya1210/CoinConverse/assets/93855214/e348e76f-7c0f-4b0f-909d-018c88262d31)
+
 * Gas Fee Payment: Users need to pay a small gas fee for each message they send. This helps to prevent spamming and maintain a reliable and efficient messaging system.
+
+![2023-07-08 (8)](https://github.com/Luckshya1210/CoinConverse/assets/93855214/16beae59-7d6c-4cd1-b9c2-42beba0ab3f4)
 
 ## Technologies Used
 
@@ -23,17 +34,12 @@ The CoinConverse is a web-based platform that leverages Ethereum addresses, the 
 ## Follow the instructions below to set up and run the CoinConverse locally:
 * Clone the repository:
 
-bash
-Copy code
 ### `git clone https://github.com/your-username/your-project.git`
 ### `cd your-project`
 
 * Install the dependencies:
-
-bash
-Copy code
+ 
 ### `npm install`
-
 
 ### Configure MetaMask
   
@@ -48,8 +54,6 @@ Customize other configurations as needed.
 
 * Build and run the application:
 
-*  bash
-* Copy code
 ### `npm run dev`
 
 ## Access the application:

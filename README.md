@@ -7,19 +7,19 @@ The CoinConverse is a web-based platform that leverages Ethereum addresses, the 
 ## Features
 * Decentralized Accounts: Users can create their unique accounts on the platform using their Ethereum addresses, providing a decentralized and secure identity verification process.
 
-![2023-07-08 (4)](https://github.com/Luckshya1210/CoinConverse/assets/93855214/2fe8ee8d-636e-4790-9334-344f8c1df00d)
+![2023-07-08 (4)](https://github.com/Luckshya1210/CoinConverse/assets/93855214/96e51951-7141-4e86-a186-7ab476e5c78a)
 
 * Friend Management: Users can add friends on the platform, establishing connections with other users and expanding their network seamlessly.
 
-![2023-07-08 (2)](https://github.com/Luckshya1210/CoinConverse/assets/93855214/f43da081-688e-453a-973a-b51a4046bf75) 
+![2023-07-08 (2)](https://github.com/Luckshya1210/CoinConverse/assets/93855214/d7bd8da2-e1e9-4bd3-8ef8-f2a592c7de4c)
 
 * Secure Chat: Users can engage in highly encrypted conversations with their friends. The chat messages are stored on the Sepolia blockchain network, ensuring data integrity and immutability.
 
-![2023-07-08 (7)](https://github.com/Luckshya1210/CoinConverse/assets/93855214/e348e76f-7c0f-4b0f-909d-018c88262d31)
+![2023-07-08 (7)](https://github.com/Luckshya1210/CoinConverse/assets/93855214/2f29ed5d-fd21-4f07-9145-864320e6da7d)
 
 * Gas Fee Payment: Users need to pay a small gas fee for each message they send. This helps to prevent spamming and maintain a reliable and efficient messaging system.
 
-![2023-07-08 (8)](https://github.com/Luckshya1210/CoinConverse/assets/93855214/16beae59-7d6c-4cd1-b9c2-42beba0ab3f4)
+![2023-07-08 (8)](https://github.com/Luckshya1210/CoinConverse/assets/93855214/1e9e65d6-6a53-40fe-b31d-caee93d47aff)
 
 ## Technologies Used
 
@@ -30,6 +30,11 @@ The CoinConverse is a web-based platform that leverages Ethereum addresses, the 
 * JavaScript: JavaScript is the primary programming language used for implementing the application's logic and functionality.
 * Solidity: Solidity, a contract-oriented programming language, is used to develop smart contracts for the Ethereum blockchain.
 * Web3.js: Web3.js library is employed to interact with Ethereum and Sepolia blockchain networks.
+
+## Deployment of project
+
+* Frontend deployed using vercel on https://coin-converse.vercel.app/
+* Solidity contract powering the application deployed on Sepolia Ethereum Testnet. - https://sepolia.etherscan.io/address/0x22ba6e8984b736aDABBfe511da61b7C7f1ab07f5
 
 ## Follow the instructions below to set up and run the CoinConverse locally:
 * Clone the repository:
